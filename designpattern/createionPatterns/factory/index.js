@@ -1,4 +1,4 @@
-var UserFactory = require('./userfactory');
+var UserFactory = require('./userFactory');
 
 var alex = UserFactory('Alex Banks', 100);
 var eve = UserFactory('Eve Porcello', 100, 'employee', 'CSG');
